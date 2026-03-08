@@ -1,1 +1,3 @@
-Hello Git
+Hello GitHub!
+I just updated the file using Git Bash.
+This is my second change.
